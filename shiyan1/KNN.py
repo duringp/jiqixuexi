@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # 读入mnist数据集
-m_x = np.loadtxt('mnist_x', delimiter=' ')
-m_y = np.loadtxt('mnist_y')
+m_x = np.loadtxt('../Hands-on-ML-master/Hands-on-ML-master/第3章 k近邻算法/mnist_x', delimiter=' ')
+m_y = np.loadtxt('../Hands-on-ML-master/Hands-on-ML-master/第3章 k近邻算法/mnist_y')
 
 # 数据集可视化
 data = np.reshape(np.array(m_x[0], dtype=int), [28, 28])
@@ -62,7 +62,7 @@ class KNN:
         for i, x in enumerate(x_test):
             predicted_test_labels[i] = self.get_label(x)
         return predicted_test_labels
-#%%
+
 for k in range(1, 10):
     knn = KNN(k, label_num=10)
     knn.fit(x_train, y_train)

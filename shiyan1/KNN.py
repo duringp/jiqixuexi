@@ -100,7 +100,7 @@ class KNN:
             dist = distance(self.x_train[index], x)
             label = int(self.y_train[index])
 
-            # --- 核心修改：加权投票 ---
+            # 加权投票
             # 距离越近，dist 越小，权重 weight 越大
             # 加上 1e-6 是为了防止 dist 为 0 时报错
             weight = 1.0 / (dist + 1e-6)
@@ -164,7 +164,7 @@ for k in ks:
     last_predicted_labels = pred#记录最后一次预测的结果
 
 #(6)画出分类结果的混淆矩阵。
-print("正在生成混淆矩阵...")
+print("(6)正在生成混淆矩阵...")
 plot_confusion_matrix(y_test_k, last_predicted_labels)
 
 # 绘制精度随 K 变化的折线图

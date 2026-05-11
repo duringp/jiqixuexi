@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6aa0e9-38d9-434e-861a-45efdd010a4a" name="更改" comment="KNN">
-      <change afterPath="$PROJECT_DIR$/shiyan1/gauss.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan1/mnist_x" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shiyan1/mnist_y" afterDir="false" />
+    <list default="true" id="8d6aa0e9-38d9-434e-861a-45efdd010a4a" name="更改" comment="BOOK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shiyan1/KNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/shiyan1/KNN.py" afterDir="false" />
     </list>
@@ -26,43 +23,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "duringp"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;duringp&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/duringp/jiqixuexi.git",
-    "accountId": "013e888c-78b6-4834-9643-26da8f0a700f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/duringp/jiqixuexi.git&quot;,
+    &quot;accountId&quot;: &quot;013e888c-78b6-4834-9643-26da8f0a700f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3CvD35nHM1O5ohqSnj9cKBMO7UU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.KNN.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/大学/个人作业/机器学习/shiyan1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.KNN.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/大学/个人作业/机器学习/shiyan1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\大学\个人作业\机器学习\shiyan1" />
@@ -117,7 +114,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1777256948897</updated>
-      <workItem from="1777256949881" duration="5291000" />
+      <workItem from="1777256949881" duration="5454000" />
+      <workItem from="1777292466377" duration="3090000" />
+      <workItem from="1778466105657" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="KNN">
       <option name="closed" value="true" />
@@ -135,7 +134,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777258734528</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="KNN">
+      <option name="closed" value="true" />
+      <created>1777262421379</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777262421379</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BOOK">
+      <option name="closed" value="true" />
+      <created>1777295826258</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777295826258</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,9 +158,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="KNN" />
-    <option name="LAST_COMMIT_MESSAGE" value="KNN" />
+    <MESSAGE value="BOOK" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOOK" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$KNN.coverage" NAME="KNN 覆盖结果" MODIFIED="1777261551210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan1" />
+    <SUITE FILE_PATH="coverage/$KNN.coverage" NAME="KNN 覆盖结果" MODIFIED="1777262352348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan1" />
   </component>
 </project>

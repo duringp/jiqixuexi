@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb5e4469-db37-49c8-9d66-c844a407d503" name="更改" comment="实验三">
+    <list default="true" id="bb5e4469-db37-49c8-9d66-c844a407d503" name="更改" comment="shiyan3">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/机器学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/机器学习.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kechengsheji/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kechengsheji/compare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kechengsheji/kechengsheji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kechengsheji/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shiyan3/models/HandGestureCNN.pth" beforeDir="false" afterPath="$PROJECT_DIR$/shiyan3/models/HandGestureCNN.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +56,8 @@
     &quot;Python.HandGestureCNN.executor&quot;: &quot;Run&quot;,
     &quot;Python.HandGestureCNN1.executor&quot;: &quot;Run&quot;,
     &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare(1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare.executor&quot;: &quot;Run&quot;,
     &quot;Python.kechengsheji.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.test2.executor&quot;: &quot;Run&quot;,
@@ -61,6 +70,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -111,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="机器学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kechengsheji/TEST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kechengsheji/compare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="compare(1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="机器学习" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kechengsheji/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kechengsheji/compare(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,10 +193,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.HandGestureCNN1" />
-        <item itemvalue="Python.HandGestureCNN" />
         <item itemvalue="Python.test2" />
-        <item itemvalue="Python.TEST" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.compare(1)" />
+        <item itemvalue="Python.compare" />
+        <item itemvalue="Python.HandGestureCNN" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +223,14 @@
       <workItem from="1780221857756" duration="86000" />
       <workItem from="1780280882786" duration="4536000" />
       <workItem from="1780324373640" duration="651000" />
-      <workItem from="1780371557496" duration="263000" />
+      <workItem from="1780371557496" duration="4374000" />
+      <workItem from="1780706443950" duration="59000" />
+      <workItem from="1780706529904" duration="300000" />
+      <workItem from="1780706844916" duration="12273000" />
+      <workItem from="1780736559452" duration="1799000" />
+      <workItem from="1780793416613" duration="4457000" />
+      <workItem from="1780822314482" duration="627000" />
+      <workItem from="1780884939762" duration="4902000" />
     </task>
     <task id="LOCAL-00001" summary="实验三">
       <option name="closed" value="true" />
@@ -223,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780324408425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="shiyan3">
+      <option name="closed" value="true" />
+      <created>1780371918995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780371918995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,16 +267,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="实验三" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验三" />
+    <MESSAGE value="shiyan3" />
+    <option name="LAST_COMMIT_MESSAGE" value="shiyan3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HandGestureCNN_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1780281134750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
     <SUITE FILE_PATH="coverage/$kechengsheji.coverage" NAME="kechengsheji 覆盖结果" MODIFIED="1780133054494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
     <SUITE FILE_PATH="coverage/TEST_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1780221874527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/HandGestureCNN1_py$HandGestureCNN1.coverage" NAME="HandGestureCNN1 覆盖结果" MODIFIED="1780889255792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan3" />
+    <SUITE FILE_PATH="coverage/$TEST.coverage" NAME="TEST 覆盖结果" MODIFIED="1780133588152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/compare_py$compare.coverage" NAME="compare 覆盖结果" MODIFIED="1780732680893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/test2_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1780799078662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/HandGestureCNN_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1780281134750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
     <SUITE FILE_PATH="coverage/TEST_py$TEST.coverage" NAME="TEST 覆盖结果" MODIFIED="1780210768947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
     <SUITE FILE_PATH="coverage/HandGestureCNN_py$HandGestureCNN.coverage" NAME="HandGestureCNN 覆盖结果" MODIFIED="1780282883081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan3" />
     <SUITE FILE_PATH="coverage/HandGestureCNN_py$HandGestureCNN1.coverage" NAME="HandGestureCNN1 覆盖结果" MODIFIED="1780284470188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shiyan3" />
+    <SUITE FILE_PATH="coverage/test2_py$compare_1_.coverage" NAME="compare(1) 覆盖结果" MODIFIED="1780736569989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
     <SUITE FILE_PATH="coverage/$main.coverage" NAME="main 覆盖结果" MODIFIED="1780133061331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
-    <SUITE FILE_PATH="coverage/$TEST.coverage" NAME="TEST 覆盖结果" MODIFIED="1780133588152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/compare_py$compare_1_.coverage" NAME="compare(1) 覆盖结果" MODIFIED="1780734824876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
+    <SUITE FILE_PATH="coverage/HandGestureCNN1_py$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1780884940688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kechengsheji" />
   </component>
 </project>
